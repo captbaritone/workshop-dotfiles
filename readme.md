@@ -1,6 +1,16 @@
 A simple set of Dotfiles for use as an introduction to vim. I have included
 only configurations that I see as objectively "good".
 
+## Ussage
+
+I recomend you create your own repository from scratch rather than forking this
+one. Then, look through the files here and duplicate the lines that look useful
+to you.
+
+Your dotfiles should only include configurations that you both understand and
+need. I would encourage you to be verbose when commenting. I have tried to give
+examples of good comments.
+
 ## Install
 
     cd ~/dotfiles
