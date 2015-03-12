@@ -28,6 +28,7 @@ call plug#begin('~/.vim/plugged')
     " Fuzzy file opener
     Plug 'kien/ctrlp.vim'
 
+    " My dark, high-contrast colorscheme
     Plug 'captbaritone/molokai'
 
 call plug#end()
