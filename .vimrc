@@ -28,6 +28,8 @@ call plug#begin('~/.vim/plugged')
     " Fuzzy file opener
     Plug 'kien/ctrlp.vim'
 
+    Plug 'captbaritone/molokai'
+
 call plug#end()
 
 " }}}-------------------------------------------------------------------------
@@ -40,6 +42,7 @@ set visualbell              " Use a visual bell, don't beep!
 set number                  " Show line numbers
 set list                    " Make whitespace characters visible 
 set listchars=trail:•       " Show trailing spaces
+colorscheme molokai
 
 " }}}-------------------------------------------------------------------------
 "   Mouse                                                                 {{{
