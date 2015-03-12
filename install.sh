@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Link the .vimrc file into place
 
 echo "Linking ~/.vimrc into place"

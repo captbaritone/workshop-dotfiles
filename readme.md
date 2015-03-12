@@ -14,7 +14,7 @@ examples of good comments.
 ## Install
 
     cd ~/dotfiles
-    sh install.sh
+    ./install.sh
 
 ## Resources
 
